@@ -10,3 +10,5 @@ wheels/
 .venv
 agent/data/northwind.sqlite
 agent/data/northwind.db
+logs/
+*.log
